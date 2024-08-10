@@ -1,0 +1,19 @@
+.cityCardContainer {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 16px;
+  background-color: rgb(198, 231, 243);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+img {
+  margin-left: 50px;
+}

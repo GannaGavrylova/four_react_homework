@@ -1,0 +1,29 @@
+.formContainer {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 16px;
+  background-color: rgb(27, 104, 181);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.selectContainer {
+  margin-left: 120px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  width: 200px;
+  cursor: pointer;
+}
+.selectContainer:hover {
+  border-color: #888;
+}
+.selectContainer:focus {
+  border-color: #007bff;
+  outline: none;
+}
